@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "ActionStart"
+    },
+    {
+      "intent": "ActionStop"
+    },
+    {
+      "slots": [
+        {
+          "name": "Timeout",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "ActionStartWithDuration"
+    }
+  ]
+}

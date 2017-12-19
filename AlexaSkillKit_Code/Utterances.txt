@@ -1,0 +1,12 @@
+ActionStart start
+ActionStart open
+ActionStart on
+ActionStart turn on
+ActionStop stop
+ActionStop close
+ActionStop off
+ActionStop turn off
+ActionStartWithDuration start for {Timeout} minutes
+ActionStartWithDuration open for {Timeout} minutes
+ActionStartWithDuration on for {Timeout} minutes
+ActionStartWithDuration turn on for {Timeout} minutes
