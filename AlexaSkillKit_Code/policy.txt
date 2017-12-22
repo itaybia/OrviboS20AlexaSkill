@@ -1,0 +1,11 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": "events:PutRule",
+            "Resource": "arn:aws:events:<zone>-1:#:rule/wiwo_timer"
+        }
+    ]
+}
